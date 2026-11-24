@@ -1,0 +1,207 @@
+{
+  "documents": {
+    "DOC_ICAR_COTTON_001": {
+      "doc_id": "DOC_ICAR_COTTON_001",
+      "title": "ICAR-CICR Cotton Advisory: Pink Bollworm Management",
+      "source": "ICAR-CICR Advisory Bulletin 2026",
+      "publisher": "Indian Council of Agricultural Research",
+      "crop": "Cotton",
+      "region": "Maharashtra",
+      "season": "Kharif",
+      "language": "en",
+      "publication_date": "2026-05-15",
+      "version": "1.0",
+      "licence": "Government Open Data / Public Domain",
+      "approval_status": "approved",
+      "approved_by": "System Admin",
+      "approval_date": "2026-11-23T14:23:22.644562",
+      "notes": null
+    },
+    "DOC_KVK_WHEAT_001": {
+      "doc_id": "DOC_KVK_WHEAT_001",
+      "title": "KVK Wheat Advisory: Yellow Rust Surveillance & Field Guidance",
+      "source": "KVK Agricultural Extension Bulletin 2026",
+      "publisher": "Krishi Vigyan Kendra (KVK)",
+      "crop": "Wheat",
+      "region": "Punjab",
+      "season": "Rabi",
+      "language": "en",
+      "publication_date": "2026-01-20",
+      "version": "1.0",
+      "licence": "Government Open Data / Public Domain",
+      "approval_status": "approved",
+      "approved_by": "System Admin",
+      "approval_date": "2026-11-23T14:23:22.664916",
+      "notes": null
+    },
+    "DOC_UNVERIFIED_DRAFT_001": {
+      "doc_id": "DOC_UNVERIFIED_DRAFT_001",
+      "title": "DRAFT: Unverified Field Notes on Chemical Application",
+      "source": "Unverified Local Shop Flyer",
+      "publisher": "Unverified Shop",
+      "crop": "Cotton",
+      "region": "National",
+      "season": "All",
+      "language": "en",
+      "publication_date": "2026-01-01",
+      "version": "1.0",
+      "licence": "Government Open Data / Public Domain",
+      "approval_status": "pending",
+      "approved_by": null,
+      "approval_date": null,
+      "notes": null
+    }
+  },
+  "chunks": {
+    "DOC_ICAR_COTTON_001": [
+      {
+        "chunk_id": "DOC_ICAR_COTTON_001_chunk_000",
+        "doc_id": "DOC_ICAR_COTTON_001",
+        "text": "ICAR-CICR Cotton Advisory: Pink Bollworm Management 1. Overview & Monitoring of Pink Bollworm in Cotton Pink bollworm (Pectinophora gossypiella) is a serious pest affecting cotton crops during the flowering and boll development stages in Maharashtra and central India. Farmers are advised to install 5 sex pheromone traps per hectare for pest monitoring. 2. Cultural & Mechanical Control Measures Collect and destroy rosette flowers containing larvae.",
+        "chunk_index": 0,
+        "metadata": {
+          "doc_id": "DOC_ICAR_COTTON_001",
+          "title": "ICAR-CICR Cotton Advisory: Pink Bollworm Management",
+          "source": "ICAR-CICR Advisory Bulletin 2026",
+          "publisher": "Indian Council of Agricultural Research",
+          "crop": "Cotton",
+          "region": "Maharashtra",
+          "season": "Kharif",
+          "language": "en",
+          "publication_date": "2026-05-15",
+          "version": "1.0",
+          "licence": "Government Open Data / Public Domain",
+          "approval_status": "approved",
+          "approved_by": "System Admin",
+          "approval_date": "2026-11-23T14:23:22.644562",
+          "notes": null
+        },
+        "section_header": null
+      },
+      {
+        "chunk_id": "DOC_ICAR_COTTON_001_chunk_001",
+        "doc_id": "DOC_ICAR_COTTON_001",
+        "text": "2. Cultural & Mechanical Control Measures Collect and destroy rosette flowers containing larvae. Avoid ratoon cropping and destroy crop residues immediately after the final harvest to break the pest lifecycle. Deep summer plowing helps expose dormant pupae to solar heat and natural predators. 3. Safety and Certified Advisory Notice Farmers must consult the local Krishi Vigyan Kendra (KVK) or State Agricultural University agronomists before applying any chemical interventions.",
+        "chunk_index": 1,
+        "metadata": {
+          "doc_id": "DOC_ICAR_COTTON_001",
+          "title": "ICAR-CICR Cotton Advisory: Pink Bollworm Management",
+          "source": "ICAR-CICR Advisory Bulletin 2026",
+          "publisher": "Indian Council of Agricultural Research",
+          "crop": "Cotton",
+          "region": "Maharashtra",
+          "season": "Kharif",
+          "language": "en",
+          "publication_date": "2026-05-15",
+          "version": "1.0",
+          "licence": "Government Open Data / Public Domain",
+          "approval_status": "approved",
+          "approved_by": "System Admin",
+          "approval_date": "2026-11-23T14:23:22.644562",
+          "notes": null
+        },
+        "section_header": null
+      },
+      {
+        "chunk_id": "DOC_ICAR_COTTON_001_chunk_002",
+        "doc_id": "DOC_ICAR_COTTON_001",
+        "text": "Never use unapproved tank mixtures. Contact Kisan Call Centre at 1800-180-1551 for official district alerts.",
+        "chunk_index": 2,
+        "metadata": {
+          "doc_id": "DOC_ICAR_COTTON_001",
+          "title": "ICAR-CICR Cotton Advisory: Pink Bollworm Management",
+          "source": "ICAR-CICR Advisory Bulletin 2026",
+          "publisher": "Indian Council of Agricultural Research",
+          "crop": "Cotton",
+          "region": "Maharashtra",
+          "season": "Kharif",
+          "language": "en",
+          "publication_date": "2026-05-15",
+          "version": "1.0",
+          "licence": "Government Open Data / Public Domain",
+          "approval_status": "approved",
+          "approved_by": "System Admin",
+          "approval_date": "2026-11-23T14:23:22.644562",
+          "notes": null
+        },
+        "section_header": null
+      }
+    ],
+    "DOC_KVK_WHEAT_001": [
+      {
+        "chunk_id": "DOC_KVK_WHEAT_001_chunk_000",
+        "doc_id": "DOC_KVK_WHEAT_001",
+        "text": "KVK Wheat Advisory: Yellow Rust Surveillance & Field Guidance 1. Identification of Yellow Rust in Wheat Yellow rust (Puccinia striiformis) appears as bright yellow powdery pustules arranged in linear stripes on the upper leaf surface of wheat crops during cool, humid conditions in Punjab and North-Western plains. 2. Recommended Farm Practices & Surveillance Inspect wheat fields regularly during January and February, especially in shaded and humid areas.",
+        "chunk_index": 0,
+        "metadata": {
+          "doc_id": "DOC_KVK_WHEAT_001",
+          "title": "KVK Wheat Advisory: Yellow Rust Surveillance & Field Guidance",
+          "source": "KVK Agricultural Extension Bulletin 2026",
+          "publisher": "Krishi Vigyan Kendra (KVK)",
+          "crop": "Wheat",
+          "region": "Punjab",
+          "season": "Rabi",
+          "language": "en",
+          "publication_date": "2026-01-20",
+          "version": "1.0",
+          "licence": "Government Open Data / Public Domain",
+          "approval_status": "approved",
+          "approved_by": "System Admin",
+          "approval_date": "2026-11-23T14:23:22.664916",
+          "notes": null
+        },
+        "section_header": null
+      },
+      {
+        "chunk_id": "DOC_KVK_WHEAT_001_chunk_001",
+        "doc_id": "DOC_KVK_WHEAT_001",
+        "text": "Grow rust-resistant varieties recommended by agricultural universities. Avoid excessive nitrogen application which promotes fungal vulnerability. 3. Official Referral & Immediate Guidance Upon first symptom detection, report immediately to the district agriculture extension officer or nearest Krishi Vigyan Kendra. For real-time crop disease guidance, call the National Kisan Call Centre toll-free at 1800-180-1551.",
+        "chunk_index": 1,
+        "metadata": {
+          "doc_id": "DOC_KVK_WHEAT_001",
+          "title": "KVK Wheat Advisory: Yellow Rust Surveillance & Field Guidance",
+          "source": "KVK Agricultural Extension Bulletin 2026",
+          "publisher": "Krishi Vigyan Kendra (KVK)",
+          "crop": "Wheat",
+          "region": "Punjab",
+          "season": "Rabi",
+          "language": "en",
+          "publication_date": "2026-01-20",
+          "version": "1.0",
+          "licence": "Government Open Data / Public Domain",
+          "approval_status": "approved",
+          "approved_by": "System Admin",
+          "approval_date": "2026-11-23T14:23:22.664916",
+          "notes": null
+        },
+        "section_header": null
+      }
+    ],
+    "DOC_UNVERIFIED_DRAFT_001": [
+      {
+        "chunk_id": "DOC_UNVERIFIED_DRAFT_001_chunk_000",
+        "doc_id": "DOC_UNVERIFIED_DRAFT_001",
+        "text": "DRAFT: Unverified Field Notes on Chemical Application 1. Unverified Informal Pesticide Mixes This document contains unverified farmer field suggestions for mixing chemicals without university trials. It should not be used for official advisory until certified by institutional experts.",
+        "chunk_index": 0,
+        "metadata": {
+          "doc_id": "DOC_UNVERIFIED_DRAFT_001",
+          "title": "DRAFT: Unverified Field Notes on Chemical Application",
+          "source": "Unverified Local Shop Flyer",
+          "publisher": "Unverified Shop",
+          "crop": "Cotton",
+          "region": "National",
+          "season": "All",
+          "language": "en",
+          "publication_date": "2026-01-01",
+          "version": "1.0",
+          "licence": "Government Open Data / Public Domain",
+          "approval_status": "pending",
+          "approved_by": null,
+          "approval_date": null,
+          "notes": null
+        },
+        "section_header": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+# Python Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python Bytecode and Caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment secrets and credentials (NEVER commit these!)
+.env
+.env.local
+*.key
+*.pem
+
+# Audio recording cache and test outputs
+*.wav
+*.mp3
+*.ogg
+*.flac
+
+# IDE and Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Test caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Backup files
+backup/
+*.backup
+*.bak
+*.language_backup
+*.before_welcome_menu
+
+# Additional environment secrets
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Internal project document
+Voice_First_Agri_Assistant_Problem_Statement.pdf
+
+# Runtime cache and temporary data
+data/cache/
+data/temp_test/
+data/processed_chunks/feedback_logs.json
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+data/raw_documents/unapproved_draft_notes.pdf
+
+*backup

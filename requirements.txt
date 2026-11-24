@@ -1,0 +1,30 @@
+# ==============================================================================
+# Voice-First Multilingual Agricultural Assistant - Dependencies
+# ==============================================================================
+
+# Core AI & LLM Orchestration
+google-genai>=0.1.1
+python-dotenv>=1.0.1
+pydantic>=2.7.0
+
+# Document Ingestion, PDF Processing & Vector Search (Phase 2)
+pymupdf>=2.1.0
+faiss-cpu>=1.16.0
+
+# Speech Recognition (Audio Input / STT)
+SpeechRecognition>=3.10.4
+pyaudio>=0.2.14
+sounddevice>=0.4.6
+
+# Voice Generation (Audio Output / TTS)
+gTTS>=2.5.4
+pygame>=2.6.1
+
+# Multilingual Translation & Language Processing
+deep-translator>=1.11.4
+
+# API & Web Requests (Weather, Market Data)
+requests>=2.31.0
+
+# Web UI for Testing Voice & Chat
+streamlit>=1.35.0
